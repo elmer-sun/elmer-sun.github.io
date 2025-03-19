@@ -1,4 +1,5 @@
-# About Me
+# Sun Ruoyao
+## About Me
 
 Hello! I'm Sun Ruoyao, a student from the Department of Physics at the University of Science and Technology of China (USTC), and I'm also part of the Youth Class.
 
